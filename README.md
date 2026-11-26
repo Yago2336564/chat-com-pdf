@@ -1,6 +1,6 @@
 ﻿# Chat com PDF
 
-**App online:** COLE-O-LINK-AQUI
+**App online:** https://seu-app.streamlit.app
 
 
 Faça perguntas sobre qualquer PDF usando a API do Claude. As respostas citam a página do documento e, quando a informação não existe, o programa diz que não encontrou.
@@ -33,4 +33,5 @@ Testei as duas versões com 5 perguntas sobre um plano estratégico de 17 págin
 ## Próximos passos
 
 Interface web com Streamlit e avaliação com um conjunto maior de perguntas.
+
 
