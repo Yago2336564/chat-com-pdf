@@ -2,3 +2,4 @@
 pypdf
 fastembed
 numpy
+streamlit
